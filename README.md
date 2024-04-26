@@ -1,5 +1,13 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+###  DATE: 26.04.2024
+
+###  NAME: PON NAGARAJAN M
+
+###  ROLL NO : 212222040115
+
+###  DEPARTMENT: Computer Science And Engineering.
+
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
